@@ -4,5 +4,7 @@
 
 def roll
   # code goes here
-  rand(1..6)
+  number = rand(1..6)
+
+  puts number
 end
